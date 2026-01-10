@@ -19,7 +19,7 @@
     "@react-navigation/web": "^1.0.0-alpha.9",
     "apollo-cache-inmemory": "^1.6.3",
     "apollo-link-http": "^1.5.16",
-    "expo": "^35.0.0",
+    "expo": "^48.0.0",
     "expo-asset": "^7.0.0",
     "expo-constants": "^7.0.0",
     "expo-font": "^7.0.0",
